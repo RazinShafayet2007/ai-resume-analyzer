@@ -38,7 +38,7 @@ export default function Home() {
     }
   })
 
-  return <main className="bg-[url('/images/bg-auth.svg)] bg-cover">
+  return <main className="bg-[url('/images/bg-auth.svg')] bg-cover">
     <Navbar />
 
     <section className="main-section">
